@@ -1,6 +1,3 @@
 # Physics-Conversions
-make conversions easier 
-all programs are named so idk if you get confused that's kind of on you
-adding these all into a singular program once I finish the GUI
 
-Also adding more conversions as time goes on e.g. miles to meters instead of miles to km etc.
+Various programs to make conversions of units etc. easier. Working on creating a GUI which combines all of these programs, making it user-friendly. Programs will be added as I go, alongside with more complicated calculators to solve general physics problems with multiple variables prompted by the user. 
